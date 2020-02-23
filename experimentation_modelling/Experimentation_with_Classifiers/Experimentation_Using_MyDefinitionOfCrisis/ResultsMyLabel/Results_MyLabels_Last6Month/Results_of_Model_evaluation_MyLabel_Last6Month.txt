@@ -1,0 +1,41 @@
+rnd_forest
+[[463  24  50]
+ [143  17  41]
+ [168  12  54]]
+mean_squared_error 2.7602880658436213
+score: 0.5493827160493827
+
+
+ sgdclassifier
+[[307  78 152]
+ [ 90  62  49]
+ [108  55  71]]
+mean_squared_error 3.205761316872428
+score: 0.45267489711934156
+
+
+svc_poly
+C:\Users\T510\Anaconda3\lib\site-packages\sklearn\svm\base.py:193: FutureWarning: The default value of gamma will change from 'auto' to 'scale' in version 0.22 to account better for unscaled features. Set gamma explicitly to 'auto' or 'scale' to avoid this warning.
+  "avoid this warning.", FutureWarning)
+[[406  53  78]
+ [146  25  30]
+ [163  29  42]]
+mean_squared_error 3.111111111111111
+score: 0.48662551440329216
+
+
+ svc_rbf_low_gamma
+[[388  55  94]
+ [131  35  35]
+ [149  37  48]]
+mean_squared_error 3.0895061728395063
+score: 0.4845679012345679
+
+
+svc_rbf_high_gamma
+[[520  14   3]
+ [190   8   3]
+ [230   3   1]]
+mean_squared_error 3.003086419753086
+score: 0.5442386831275721
+1.7329415511646913

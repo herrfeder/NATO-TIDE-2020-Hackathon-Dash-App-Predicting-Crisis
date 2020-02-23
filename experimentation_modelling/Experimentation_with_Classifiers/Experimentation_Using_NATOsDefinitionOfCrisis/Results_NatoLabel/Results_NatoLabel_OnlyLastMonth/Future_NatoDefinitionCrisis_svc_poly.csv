@@ -1,0 +1,32 @@
+iso3,month,country,battle_case,protest_riots_case
+AGO,2020-01-01,Angola,0,0
+BDI,2020-01-01,Burundi,0,1
+CAF,2020-01-01,Central African Republic,1,0
+EGY,2020-01-01,Egypt,0,1
+ETH,2020-01-01,Ethiopia,0,1
+KEN,2020-01-01,Kenya,0,1
+LBR,2020-01-01,Liberia,0,1
+LBY,2020-01-01,Libya,1,0
+MLI,2020-01-01,Mali,1,0
+NER,2020-01-01,Niger,0,1
+NGA,2020-01-01,Nigeria,0,1
+RWA,2020-01-01,Rwanda,0,0
+ZAF,2020-01-01,South Africa,0,1
+SDN,2020-01-01,Sudan,0,1
+TGO,2020-01-01,Togo,0,1
+UGA,2020-01-01,Uganda,0,1
+BFA,2020-01-01,Burkina Faso,1,0
+CMR,2020-01-01,Cameroon,0,1
+TCD,2020-01-01,Chad,1,0
+SOM,2020-01-01,Somalia,1,0
+GHA,2020-01-01,Ghana,0,1
+MRT,2020-01-01,Mauritania,0,1
+ZMB,2020-01-01,Zambia,0,0
+MWI,2020-01-01,Malawi,0,0
+ZWE,2020-01-01,Zimbabwe,0,1
+MOZ,2020-01-01,Mozambique,0,1
+TZA,2020-01-01,Tanzania,0,0
+MDG,2020-01-01,Madagascar,0,1
+BEN,2020-01-01,Benin,0,1
+GIN,2020-01-01,Guinea,0,1
+SSD,2020-01-01,South Sudan,1,0
